@@ -1,3 +1,4 @@
+# This code find numberic relationship between to sets of data of equal length which is in this example n+1.
 import numpy as np
 from keras import Sequential
 from keras.layers import Dense
